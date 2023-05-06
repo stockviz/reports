@@ -1,0 +1,80 @@
+navbar:
+  title: "StockViz"
+  type: inverse
+  left:
+    - text: "Macro"
+      icon: fa-globe
+      menu:
+      - text: "Fixed Income"
+        href: https://stockviz.github.io/reports01/macro/rp-bnd.html
+      - text: "Currencies"
+        href: https://stockviz.github.io/reports01/macro/rp-cur.html
+      - text: "Commodities"
+        href: https://stockviz.github.io/reports01/macro/rp-cmdy.html
+    - text: "52w H&L"
+      icon: fa-arrows-v
+      menu:
+      - text: "India"
+        href: https://stockviz.github.io/reports01/eq/52wk-IN.html
+      - text: "US"
+        href: https://stockviz.github.io/reports01/eq/52wk-US.html
+    - text: "ATH"
+      icon: fa-rocket
+      menu:
+      - text: "India"
+        href: https://stockviz.github.io/reports01/eq/ath-IN.html
+      - text: "US"
+        href: https://stockviz.github.io/reports01/eq/ath-US.html
+    - text: "Drawdowns"
+      icon: fa-magnet
+      menu:
+      - text: "India"
+        href: https://stockviz.github.io/reports01/eq/drawdowns-IN.html
+      - text: "US"
+        href: https://stockviz.github.io/reports01/eq/drawdowns-US.html 
+    - text: "Streaks"
+      icon: fa-train
+      menu:
+      - text: "India"
+        href: https://stockviz.github.io/reports01/eq/streaks-IN.html
+      - text: "US"
+        href: https://stockviz.github.io/reports01/eq/streaks-US.html 
+    - text: "Indian Indices"
+      icon: fa-hand-pointer-o
+      menu:
+        - text: "Performance Metrics"
+          href: https://stockviz.github.io/reports01/index/rp-risk.html  
+        - text: "Changes"
+          href: https://stockviz.github.io/reports01/index/rp-IN.html  
+        - text: "Synthetic Indices"
+          href: https://stockviz.github.io/reports01/index/rp-syn.html  
+        - text: "NIFTY Volatility"
+          href: https://stockviz.github.io/reports01/index/rp-vol-NIFTY.html
+        - text: "Valuations"
+          href: https://stockviz.github.io/reports01/index/rp-valuations.html            
+    - text: "Funds"
+      icon: fa-shopping-bag
+      menu:
+        - text: "Indian Mutual Funds"
+          href: https://stockviz.github.io/reports03/mf/rp-IN.html
+        - text: "US ETFs"
+          href: https://stockviz.github.io/reports02/etf-us/rp-risk.html
+        - text: "US Sector ETFs"
+          href: https://stockviz.github.io/reports02/etf-us/rp-sector.html
+        - text: "Country $ ETFs"
+          href: https://stockviz.github.io/reports02/etf-us/rp-country.html
+    - text: "Fama-French"
+      icon: fa-percent
+      menu:
+        - text: "Industry"
+          href: https://stockviz.github.io/reports02/etf-us/rp-fama-french-industry.html
+        - text: "Factors"
+          href: https://stockviz.github.io/reports02/etf-us/rp-fama-french-factors.html
+        - text: "Regressions"
+          href: https://stockviz.github.io/reports02/etf-us/rp-fama-french-regression.html          
+  right:
+    - icon: fa-home
+      href: https://stockviz.biz
+    - icon: fa-envelope-o
+      href: https://stockviz.substack.com
+    

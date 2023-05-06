@@ -1,0 +1,23 @@
+---
+title: StockViz Dashboards
+editor_options:
+  chunk_output_type: console
+output: 
+  html_document:
+    theme: flatly
+    highlight: tango
+    self_contained: false
+    lib_dir: macro/rmdlib
+    includes:
+        in_header: header.html
+
+---
+
+$~$
+
+#### **Welcome to StockViz Dashboards!**
+
+
+
+Navigate to Macro, Equity, Index, ETF and Mutual Fund dashboards through the menu!
+
