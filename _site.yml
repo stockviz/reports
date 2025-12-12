@@ -44,19 +44,29 @@ navbar:
       menu:
         - text: "Performance Metrics"
           href: https://stockviz.github.io/reports01/index/rp-risk.html  
-        - text: "Changes"
+        - text: "Index Changes"
           href: https://stockviz.github.io/reports01/index/rp-IN.html  
+        - text: "Classification Changes"
+          href: https://stockviz.github.io/reports01/index/rp-MKT-CAP.html            
+        - text: "Industry Metrics"
+          href: https://stockviz.github.io/reports01/index/rp-industry.html  
         - text: "Synthetic Indices"
           href: https://stockviz.github.io/reports01/index/rp-syn.html  
         - text: "NIFTY Volatility"
           href: https://stockviz.github.io/reports01/index/rp-vol-NIFTY.html
         - text: "Valuations"
-          href: https://stockviz.github.io/reports01/index/rp-valuations.html            
+          href: https://stockviz.github.io/reports01/index/rp-valuations.html
+        - text: "Result Dates"
+          href: https://stockviz.github.io/reports01/eq/results-IN.html          
+        - text: "Margin Report"
+          href: https://stockviz.github.io/reports02/eq-in/rp-margin.html
     - text: "Funds"
       icon: fa-shopping-bag
       menu:
         - text: "Indian Mutual Funds"
           href: https://stockviz.github.io/reports03/mf/rp-IN.html
+        - text: "Indian PMS"
+          href: https://stockviz.github.io/reports03/pms/rp-IN.html
         - text: "US ETFs"
           href: https://stockviz.github.io/reports02/etf-us/rp-risk.html
         - text: "US Sector ETFs"
